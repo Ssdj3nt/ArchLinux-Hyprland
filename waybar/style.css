@@ -1,0 +1,54 @@
+* {
+  border: none;
+  font-family: 'Fira Code', 'Symbols Nerd Font Mono';
+  font-size: 18px;
+  font-feature-settings: '"zero", "ss01", "ss02", "ss03", "ss04", "ss05", "cv31"';
+}
+
+window#waybar {
+  background: #1E1E1E;
+}
+
+#workspaces {
+  background: #303030;
+  border-radius: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-right: 20px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+#workspaces button {
+  color: #FFFFFF;
+}
+
+#clock, #pulseaudio{
+  color: #FFFFFF;
+  background: #303030;
+  border-radius: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 3px;
+}
+
+#tray{
+  background: #303030;
+  border-radius: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+#clock{
+  margin-right: 20px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+ #pulseaudio{
+  margin-top: 5px;
+  margin-right: 20px;
+  margin-bottom: 5px;
+ }
