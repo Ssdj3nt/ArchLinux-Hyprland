@@ -1,54 +1,49 @@
 * {
   border: none;
   font-family: 'Fira Code', 'Symbols Nerd Font Mono';
-  font-size: 18px;
+  font-size: 16px;
   font-feature-settings: '"zero", "ss01", "ss02", "ss03", "ss04", "ss05", "cv31"';
 }
 
 window#waybar {
-  background: #1E1E1E;
+  background: #000000;
 }
 
 #workspaces {
-  background: #303030;
-  border-radius: 10px;
-  padding-left: 10px;
-  padding-right: 10px;
-  margin-right: 20px;
+  margin-left: 10px;
   margin-top: 5px;
-  margin-bottom: 5px;
 }
 
 #workspaces button {
   color: #FFFFFF;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+button:hover {
+  box-shadow: none;
+  text-shadow: none;
+  background: none;
+  transition: none;
 }
 
 #clock, #pulseaudio{
   color: #FFFFFF;
-  background: #303030;
-  border-radius: 10px;
-  padding-left: 10px;
-  padding-right: 10px;
-  padding-top: 3px;
-}
-
-#tray{
-  background: #303030;
-  border-radius: 10px;
-  padding-left: 10px;
-  padding-right: 10px;
   margin-top: 5px;
-  margin-bottom: 5px;
 }
 
 #clock{
-  margin-right: 20px;
-  margin-top: 5px;
-  margin-bottom: 5px;
+  padding-top: 5px;
 }
 
  #pulseaudio{
-  margin-top: 5px;
-  margin-right: 20px;
-  margin-bottom: 5px;
+  margin-right: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+ }
+ 
+ #tray{
+ padding-top: 10px;
+ margin-right: 20px;
  }

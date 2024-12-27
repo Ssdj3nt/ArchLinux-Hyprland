@@ -1,8 +1,8 @@
 {
   "layer": "top",
-    "modules-left": [],
-    "modules-center": ["clock" , "hyprland/workspaces", "pulseaudio", "tray"],
-    "modules-right": [],
+    "modules-left": ["hyprland/workspaces"],
+    "modules-center": ["clock"],
+    "modules-right": ["tray", "pulseaudio"],
     "hyprland/workspaces": {
       "format": "{name}",
       "format": "{icon}",
@@ -18,15 +18,15 @@
     },
     "tray": {
 	"icon-size": 18,
-	"spacing": 10
+	"spacing": 20
 	},
     "pulseaudio": {
       "format": "<span color='#FFFFFF'>{icon}</span> {volume}%",
-      "format-muted": "󰝟",
+      "format-muted": "",
       "tooltip": false,
       "format-icons": {
         "headphone": "",
-        "default": [""]
+        "default": [""]
       },
       "scroll-step": 1,
     }
