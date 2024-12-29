@@ -13,9 +13,11 @@
         "default": ""
       }
     },
-    "clock": {
-      "format": "<b>󰃭 {:%d/%m/%Y   -    %H:%M}</b>",
-    },
+"clock": {
+    "format": "{:%A %d %b  %H:%M}", 
+    "timezone": "Europe/Rome",
+    "locale": "it_IT.UTF-8"
+},
     "tray": {
 	"icon-size": 18,
 	"spacing": 20
@@ -26,7 +28,7 @@
       "tooltip": false,
       "format-icons": {
         "headphone": "",
-        "default": [""]
+        "default": [" "]
       },
       "scroll-step": 1,
     }
