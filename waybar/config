@@ -24,7 +24,7 @@
 	},
     "pulseaudio": {
       "format": "<span color='#FFFFFF'>{icon}</span> {volume}%",
-      "format-muted": "",
+      "format-muted": "",
       "tooltip": false,
       "format-icons": {
         "headphone": "",

@@ -11,7 +11,7 @@ window#waybar {
 
 #workspaces {
   margin-left: 10px;
-  margin-top: 5px;
+  margin-top: 10px;
 }
 
 #workspaces button {
@@ -29,21 +29,16 @@ button:hover {
 
 #clock, #pulseaudio{
   color: #FFFFFF;
-  margin-top: 5px;
-}
-
-#clock{
-  padding-top: 5px;
+  margin-top: 10px;
 }
 
  #pulseaudio{
   margin-right: 10px;
   padding-left: 10px;
   padding-right: 10px;
-  padding-top: 5px;
  }
  
  #tray{
- padding-top: 10px;
  margin-right: 20px;
+ margin-top: 10px;
  }
