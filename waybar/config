@@ -25,6 +25,7 @@
     },
 "clock": {
     "format": "{:%A %d %b  %H:%M}",
+    "tooltip": false,
 },
     "tray": {
 	"icon-size": 18,
@@ -35,9 +36,10 @@
       "format-muted": "",
       "tooltip": false,
       "format-icons": {
-        "headphone": "",
         "default": [" "]
       },
-      "scroll-step": 1,
+      "on-click": "pavucontrol",
+      "on-scroll-down": "",
+      "on-scroll-up": "",
     },
 }
