@@ -7,6 +7,7 @@
 
 window#waybar {
   background: #000000;
+  background: transparent;
 }
 
 #workspaces {
@@ -41,4 +42,8 @@ button:hover {
  #tray{
  margin-right: 20px;
  margin-top: 15px;
+ }
+ 
+ #pulseaudio, #clock, #workspaces {
+    font-weight: bold;
  }

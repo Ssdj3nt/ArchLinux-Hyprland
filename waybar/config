@@ -20,7 +20,7 @@
       "all-outputs": true,
       "format-icons": {
         "focused": "",
-        "default": ""
+        "default": ""
       }
     },
 "clock": {
@@ -39,5 +39,5 @@
         "default": [" "]
       },
       "scroll-step": 1,
-    }
+    },
 }
