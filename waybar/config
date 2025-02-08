@@ -24,8 +24,8 @@
       }
     },
 "clock": {
-    "format": "{:%A %d %b  %H:%M}",
-    "tooltip": false,
+    "format": "{:L%A %d-%m   %H:%M}",
+    "tooltip": false
 },
     "tray": {
 	"icon-size": 18,
