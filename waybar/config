@@ -1,6 +1,6 @@
 {
   "layer": "top",
-    "modules-left": ["hyprland/workspaces", "sway/workspaces"],
+    "modules-left": ["hyprland/workspaces"],
     "modules-center": ["clock"],
     "modules-right": ["tray", "pulseaudio"],
     "hyprland/workspaces": {
@@ -11,16 +11,6 @@
       "format-icons": {
         "active": "",
         "default": ""
-      }
-    },
-    "sway/workspaces": {
-      "format": "{name}",
-      "format": "{icon}",
-      "tooltip": false,
-      "all-outputs": true,
-      "format-icons": {
-        "focused": "",
-        "default": ""
       }
     },
 "clock": {
@@ -36,7 +26,8 @@
       "format-muted": "",
       "tooltip": false,
       "format-icons": {
-        "default": [" "]
+        "alsa_output.usb-046d_G435_Wireless_Gaming_Headset_V001008005.1-01.analog-stereo": " ",
+        "alsa_output.pci-0000_2d_00.4.analog-stereo": " ",
       },
       "on-click": "pavucontrol",
       "on-scroll-down": "",
