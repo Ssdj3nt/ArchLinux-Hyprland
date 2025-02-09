@@ -15,8 +15,7 @@ Hyprland dotfiles for a minimalist setup.
 + slurp
 + polkit-gnome
 
-
-
+<br><br>
 ArchLinux installation:
 ```
 
