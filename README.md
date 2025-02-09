@@ -3,7 +3,7 @@
 Hyprland dotfiles for a minimalist setup.
 
 - Essential packages:
-* hyprland
++ hyprland
 + waybar
 + wofi
 + hyprpaper
