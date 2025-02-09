@@ -1,14 +1,12 @@
 window {
 background-color: #1E1E1E;
 font-size: 20px;
-border-radius: 15px;
 }
 
 #input {
 margin: 20px 20px 20px 20px;
 color: #ffffff;
 background-color: #303030;
-border-radius: 15px;
 }
 
 #input image {
@@ -23,7 +21,6 @@ border: none;
 #outer-box {
 background-color: #1E1E1E;
 border: 2px solid #FFFFFF;
-border-radius: 15px;
 }
 
 #text {
@@ -34,5 +31,4 @@ color: #ffffff;
 #entry:selected {
 background-color: #303030;
 outline: none;
-border-radius: 15px;
 }
