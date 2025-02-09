@@ -15,15 +15,19 @@ Hyprland dotfiles for a minimalist setup.
 + slurp
 + polkit-gnome
 
+
+
 ArchLinux installation:
-'''
+```
+
 sudo pacman -S hyprland waybar wofi hyprpaper pavucontrol pamixer playerctl ttf-font-awesome grim slurp polkit-gnome 
-'''
+```
 
 Optional:
-'''
+```
+
 sudo pacman -S openrgb libva-nvidia-driver
-'''
+```
 
 
 
