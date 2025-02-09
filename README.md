@@ -1,8 +1,8 @@
 # Hyprland-dotfiles
 
 Hyprland dotfiles for a minimalist setup.
-
-- Essential packages:
+<br><br>
+Essential packages:
 + hyprland
 + waybar
 + wofi
