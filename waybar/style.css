@@ -44,6 +44,7 @@ button:hover {
  margin-top: 15px;
  }
  
- #pulseaudio, #clock, #workspaces {
-    font-weight: bold;
+ #clock, #pulseaudio 
+ {
+  font-weight: bold;
  }
