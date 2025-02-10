@@ -22,12 +22,12 @@
 	"spacing": 20
 	},
     "pulseaudio": {
-      "format": "<span color='#FFFFFF'>{icon}</span> {volume}%",
+      "format": "{volume}%<span color='#FFFFFF'>{icon}</span>",
       "format-muted": "",
       "tooltip": false,
       "format-icons": {
-        "alsa_output.usb-046d_G435_Wireless_Gaming_Headset_V001008005.1-01.analog-stereo": " ",
-        "alsa_output.pci-0000_2d_00.4.analog-stereo": " ",
+        "alsa_output.usb-046d_G435_Wireless_Gaming_Headset_V001008005.1-01.analog-stereo": "  ",
+        "alsa_output.pci-0000_2d_00.4.analog-stereo": "  ",
       },
       "on-click": "pavucontrol",
       "on-scroll-down": "",
