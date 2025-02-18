@@ -18,7 +18,7 @@ Essential packages:
 <br><br>
 ArchLinux installation:
 ```
-sudo pacman -S hyprland waybar wofi hyprpaper pavucontrol pamixer playerctl ttf-font-awesome grim slurp polkit-gnome 
+sudo pacman -S hyprland waybar wofi hyprpaper pavucontrol pamixer playerctl ttf-font-awesome grim slurp polkit-gnome gnome-themes-extra 
 ```
 <br><br>
 ![1](https://github.com/user-attachments/assets/29bfbb99-cc2a-4975-8453-41143c2b8e19)
