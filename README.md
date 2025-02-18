@@ -21,8 +21,8 @@ ArchLinux installation:
 sudo pacman -S hyprland waybar wofi hyprpaper pavucontrol pamixer playerctl ttf-font-awesome grim slurp polkit-gnome 
 ```
 <br><br>
-![20250218_13h00m55s_grim](https://github.com/user-attachments/assets/0fb92ae9-a310-44a5-940d-ba5746d07709)
+![1](https://github.com/user-attachments/assets/29bfbb99-cc2a-4975-8453-41143c2b8e19)
 <br><br>
-![20250218_13h02m38s_grim](https://github.com/user-attachments/assets/1c7f121c-cf89-4cd7-bfc1-6470d7caf74c)
+![2](https://github.com/user-attachments/assets/a5c1f2ec-4fc1-42e4-969a-0ceecbe3c305)
 <br><br>
-![20250218_13h00m48s_grim](https://github.com/user-attachments/assets/9b4b20ea-7b35-44e8-88eb-07397f398e62)
+![3](https://github.com/user-attachments/assets/72d8fe79-f2df-4582-9be4-5d5ad184e195)
