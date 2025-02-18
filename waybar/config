@@ -39,12 +39,12 @@
     "on-click": "/home/ssdj3nt/.config/sh_file/shutdown.sh"
     },
     "custom/reboot": {
-    "format": "",
+    "format": "",
     "tooltip": false,
     "on-click": "/home/ssdj3nt/.config/sh_file/reboot.sh"
     },
     "custom/gdm": {
-    "format": "",
+    "format": "",
     "tooltip": false,
     "on-click": "/home/ssdj3nt/.config/sh_file/gdm.sh"
     },
