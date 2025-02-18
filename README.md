@@ -14,6 +14,7 @@ Essential packages:
 + grim
 + slurp
 + polkit-gnome
++ gnome-themes-extra
 
 <br><br>
 ArchLinux installation:
