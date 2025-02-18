@@ -1,18 +1,19 @@
+* {
+border-radius: 15px;
+}
+
 #window {
-background-color: #1E1E1E;
 font-size: 20px;
-border-radius: 10px;
 }
 
 #input {
 margin: 20px 20px 20px 20px;
-color: #ffffff;
+color: white;
 background-color: #303030;
-border-radius: 10px;
 }
 
 #input image {
-color: #ffffff;
+color: white;
 }
 
 #inner-box {
@@ -27,11 +28,10 @@ border: 2px solid white;
 
 #text {
 margin: 5px;
-color: #ffffff;
+color: white;
 } 
 
 #entry:selected {
 background-color: #303030;
 outline: none;
-border-radius: 10px;
 }
