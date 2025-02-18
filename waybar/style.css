@@ -34,7 +34,7 @@ button:hover {
 }
 
  #pulseaudio{
-  margin-right: 10px;
+  margin-right: 20px;
   padding-left: 10px;
   padding-right: 10px;
  }
@@ -48,3 +48,23 @@ button:hover {
  {
   font-weight: bold;
  }
+ 
+  #custom-gdm {
+  color: white;
+  margin-top: 15px;
+  margin-right: 20px;
+}
+ 
+  #custom-reboot {
+  color: white;
+  margin-top: 15px;
+  margin-right: 20px;
+}
+ 
+ #custom-shutdown {
+  color: white;
+  margin-top: 15px;
+  margin-right: 20px;
+}
+
+
