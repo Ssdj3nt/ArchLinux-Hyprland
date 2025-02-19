@@ -1,8 +1,8 @@
 style=/home/ssdj3nt/.config/wofi/style.css
-xoffset=1420
-yoffset=600
+xoffset=1470
+yoffset=650
 show=drun
-width=600
+width=500
 height=450
 always_parse_args=true
 show_all=true
