@@ -30,6 +30,7 @@ border: none;
 #outer-box {
 background-color: #1E1E1E;
 border: 2px solid white;
+padding-bottom: 10px;
 }
 
 #text {
