@@ -24,8 +24,8 @@ ArchLinux installation:
 sudo pacman -S hyprland waybar wofi hyprpaper pavucontrol pamixer playerctl ttf-font-awesome lib32-fontconfig grim slurp polkit-gnome gnome-themes-extra xdg-desktop-portal-hyprland
 ```
 <br><br>
-![1](https://github.com/user-attachments/assets/29bfbb99-cc2a-4975-8453-41143c2b8e19)
+![1](https://github.com/user-attachments/assets/1f976d55-6ff2-4b98-9667-74c28f448678)
 <br><br>
-![2](https://github.com/user-attachments/assets/a5c1f2ec-4fc1-42e4-969a-0ceecbe3c305)
+![2](https://github.com/user-attachments/assets/56f7349d-e086-423c-863c-629de98dbf4a)
 <br><br>
-![3](https://github.com/user-attachments/assets/72d8fe79-f2df-4582-9be4-5d5ad184e195)
+![3](https://github.com/user-attachments/assets/04efb3ef-15a3-4ae8-bd95-955baf0ee9a7)
