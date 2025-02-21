@@ -6,7 +6,6 @@
 }
 
 window#waybar {
-  background: #000000;
   background: transparent;
 }
 
@@ -16,7 +15,7 @@ window#waybar {
 }
 
 #workspaces button {
-  color: #FFFFFF;
+  color: white;
   padding-left: 10px;
   padding-right: 10px;
 }
@@ -29,7 +28,7 @@ button:hover {
 }
 
 #clock, #pulseaudio{
-  color: #FFFFFF;
+  color: white;
   margin-top: 15px;
 }
 

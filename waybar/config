@@ -22,7 +22,7 @@
 	"spacing": 20
 	},
     "pulseaudio": {
-      "format": "{volume}%<span color='#FFFFFF'>{icon}</span>",
+      "format": "{volume}%<span>{icon}</span>",
       "format-muted": "",
       "tooltip": false,
       "format-icons": {
@@ -47,5 +47,5 @@
     "format": "",
     "tooltip": false,
     "on-click": "/home/ssdj3nt/.config/sh_file/gdm.sh"
-    },
+    }
 }
