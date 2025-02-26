@@ -16,8 +16,6 @@ window#waybar {
 
 #workspaces button {
   color: white;
-  padding-left: 10px;
-  padding-right: 10px;
 }
 
 button:hover {
@@ -27,37 +25,27 @@ button:hover {
   transition: none;
 }
 
-#clock, #pulseaudio{
+#clock, #pulseaudio {
   color: white;
   margin-top: 15px;
 }
-
- #pulseaudio{
-  margin-right: 20px;
-  padding-left: 10px;
-  padding-right: 10px;
+ 
+ #tray {
+  margin-top: 15px;
  }
  
- #tray{
- margin-right: 20px;
- margin-top: 15px;
- }
- 
- #clock, #pulseaudio 
- {
+ #clock, #pulseaudio {
   font-weight: bold;
  }
  
   #custom-gdm {
   color: white;
   margin-top: 15px;
-  margin-right: 20px;
 }
  
   #custom-reboot {
   color: white;
   margin-top: 15px;
-  margin-right: 20px;
 }
  
  #custom-shutdown {
