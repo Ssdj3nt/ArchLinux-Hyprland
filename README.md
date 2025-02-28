@@ -16,12 +16,11 @@ Essential packages:
 + slurp
 + polkit-gnome
 + gnome-themes-extra
-+ xdg-desktop-portal-hyprland
 
 <br><br>
 ArchLinux installation:
 ```
-sudo pacman -S hyprland waybar wofi hyprpaper pavucontrol pamixer playerctl ttf-font-awesome lib32-fontconfig grim slurp polkit-gnome gnome-themes-extra xdg-desktop-portal-hyprland
+sudo pacman -S hyprland waybar wofi hyprpaper pavucontrol pamixer playerctl ttf-font-awesome lib32-fontconfig grim slurp polkit-gnome gnome-themes-extra
 ```
 <br><br>
 ![1](https://github.com/user-attachments/assets/1f976d55-6ff2-4b98-9667-74c28f448678)
