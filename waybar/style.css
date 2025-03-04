@@ -9,13 +9,10 @@ window#waybar {
   background: transparent;
 }
 
-#workspaces {
-  margin-left: 10px;
-  margin-top: 15px;
-}
-
 #workspaces button {
   color: white;
+  padding: 0px;
+  margin-right: 20px;
 }
 
 button:hover {
@@ -25,31 +22,19 @@ button:hover {
   transition: none;
 }
 
+#workspaces, #clock, #pulseaudio, #custom-gdm, #custom-reboot, #custom-shutdown, #tray {
+  color: white;
+  margin: 20px 0px 5px 0px;
+}
+ 
 #clock, #pulseaudio {
-  color: white;
-  margin-top: 15px;
-}
- 
- #tray {
-  margin-top: 15px;
- }
- 
- #clock, #pulseaudio {
   font-weight: bold;
- }
- 
-  #custom-gdm {
-  color: white;
-  margin-top: 15px;
+}
+
+#custom-space-1, #custom-space-3 {
+  margin-right: 25px;
 }
  
-  #custom-reboot {
-  color: white;
-  margin-top: 15px;
-}
- 
- #custom-shutdown {
-  color: white;
-  margin-top: 15px;
-  margin-right: 20px;
+#custom-space-2 {
+  margin-right: 15px;
 }
