@@ -22,17 +22,21 @@ button:hover {
   transition: none;
 }
 
-#workspaces, #clock, #pulseaudio, #custom-gdm, #custom-reboot, #custom-shutdown, #tray {
+#clock {
+  padding-top: 23px;
+}
+
+#workspaces, #pulseaudio, #custom-gdm, #custom-reboot, #custom-shutdown, #tray {
   color: white;
-  margin: 20px 0px 5px 0px;
+  margin-top: 20px;
 }
  
 #clock, #pulseaudio {
   font-weight: bold;
 }
 
-#custom-space-1, #custom-space-3 {
-  margin-right: 25px;
+#custom-space-1 {
+  margin-right: 30px;
 }
  
 #custom-space-2 {

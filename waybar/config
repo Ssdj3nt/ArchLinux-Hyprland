@@ -1,8 +1,8 @@
 {
   "layer": "top",
-    "modules-left": ["custom/space-3", "hyprland/workspaces"],
+    "modules-left": ["custom/space-1", "hyprland/workspaces"],
     "modules-center": ["clock"],
-    "modules-right": ["custom/space-2", "tray", "custom/space-3", "pulseaudio", "custom/space-3", "custom/gdm", "custom/space-2", "custom/reboot", "custom/space-2", "custom/shutdown", "custom/space-1"],
+    "modules-right": ["custom/space-2", "tray", "custom/space-1", "pulseaudio", "custom/space-1", "custom/gdm", "custom/space-2", "custom/reboot", "custom/space-2", "custom/shutdown", "custom/space-1"],
     "hyprland/workspaces": {
       "format": "{name}",
       "format": "{icon}",
@@ -53,10 +53,6 @@
     "tooltip": false
     },
     "custom/space-2": {
-    "format": " ",
-    "tooltip": false
-    },
-    "custom/space-3": {
     "format": " ",
     "tooltip": false
     }
