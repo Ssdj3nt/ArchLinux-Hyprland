@@ -1,7 +1,7 @@
 * {
   border: none;
   font-family: 'Fira Code', 'Symbols Nerd Font Mono';
-  font-size: 16px;
+  font-size: 15px;
   font-feature-settings: '"zero", "ss01", "ss02", "ss03", "ss04", "ss05", "cv31"';
 }
 
@@ -22,13 +22,9 @@ button:hover {
   transition: none;
 }
 
-#clock {
-  padding-top: 23px;
-}
-
-#workspaces, #pulseaudio, #custom-gdm, #custom-reboot, #custom-shutdown, #tray {
+#workspaces, #clock, #pulseaudio, #custom-gdm, #custom-reboot, #custom-shutdown, #tray {
   color: white;
-  margin-top: 20px;
+  margin: 20px 0 5px 0;
 }
  
 #clock, #pulseaudio {
@@ -36,7 +32,7 @@ button:hover {
 }
 
 #custom-space-1 {
-  margin-right: 30px;
+  padding-right: 20px;
 }
  
 #custom-space-2 {
