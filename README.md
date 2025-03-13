@@ -1,27 +1,11 @@
 # Hyprland-dotfiles
 
 Hyprland dotfiles for a minimalist setup.
-<br><br>
-Essential packages:
-+ hyprland
-+ waybar
-+ wofi
-+ hyprpaper
-+ pavucontrol
-+ pamixer
-+ playerctl
-+ ttf-font-awesome
-+ lib32-fontconfig
-+ grim
-+ slurp
-+ polkit-gnome
-+ gnome-themes-extra
-+ polkit-gnome
 
 <br><br>
 ArchLinux installation:
 ```
-sudo pacman -S hyprland waybar wofi hyprpaper pavucontrol pamixer playerctl ttf-font-awesome lib32-fontconfig grim slurp polkit-gnome gnome-themes-extra polkit-gnome
+sudo pacman -S hyprland waybar wofi hyprpaper pavucontrol pamixer playerctl ttf-font-awesome lib32-fontconfig grim slurp polkit-gnome gnome-themes-extra polkit-gnome baobab evince gdm gnome-console gnome-disk-utility gnome-system-monitor gnome-text-editor loupe nautilus totem
 ```
 <br><br>
 ![1](https://github.com/user-attachments/assets/1f976d55-6ff2-4b98-9667-74c28f448678)
