@@ -9,8 +9,13 @@ window#waybar {
   background: transparent;
 }
 
+window#waybar > box {
+  background: transparent;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
 #workspaces button {
-  color: white;
   padding: 0px;
   margin-right: 20px;
 }
@@ -22,9 +27,8 @@ button:hover {
   transition: none;
 }
 
-#workspaces, #clock, #pulseaudio, #custom-gdm, #custom-reboot, #custom-shutdown, #tray {
+#workspaces, #clock, #pulseaudio, #custom-gdm, #custom-reboot, #custom-shutdown {
   color: white;
-  margin: 20px 0 5px 0;
 }
  
 #clock, #pulseaudio {
@@ -37,4 +41,28 @@ button:hover {
  
 #custom-space-2 {
   padding-right: 15px;
+}
+
+#workspaces {
+  margin-left: 25px;
+}
+
+#custom-shutdown {
+  margin-right: 25px;
+}
+
+#custom-gdm, #custom-reboot {
+  margin-right: 15px;
+}
+
+#pulseaudio {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+#tray {
+  background: #303030;
+  border-radius: 15px;
+  border: 2px solid #9C9C9C;
+  padding: 5px 10px 5px 10px;
 }
