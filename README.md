@@ -13,3 +13,5 @@ yay -S hyprland xdg-desktop-portal-hyprland uwsm waybar wofi hyprpaper hyprpicke
 ![2](https://github.com/user-attachments/assets/56f7349d-e086-423c-863c-629de98dbf4a)
 <br><br>
 ![3](https://github.com/user-attachments/assets/04efb3ef-15a3-4ae8-bd95-955baf0ee9a7)
+<br><br>
+![20250404_21h12m33s_grim](https://github.com/user-attachments/assets/0c5d2c65-b692-4570-91cc-5b2b6dd02cfd)
