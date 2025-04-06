@@ -5,7 +5,7 @@ Hyprland dotfiles for a minimalist setup.
 <br><br>
 ArchLinux installation:
 ```
-yay -S hyprland xdg-desktop-portal-hyprland uwsm waybar wofi hyprpaper hyprpicker pavucontrol pamixer playerctl ttf-font-awesome lib32-fontconfig grim slurp polkit-gnome gnome-themes-extra baobab evince gdm gnome-console gnome-disk-utility gnome-system-monitor gnome-text-editor loupe nautilus totem mesa lib32-mesa vulkan-radeon lib32-vulkan-radeon python-gobject power-profiles-daemon gpu-screen-recorder-gtk unityhub discord steam spotify-launcher lact nvtop transmission-gtk scx-scheds reflector pacman-contrib openrgb nano git mangohud lib32-mangohud kdenlive firefox
+yay -S hyprland xdg-desktop-portal-hyprland uwsm waybar wofi hyprpaper hyprpicker pavucontrol pamixer playerctl ttf-font-awesome lib32-fontconfig grim slurp polkit-gnome gnome-themes-extra baobab evince gdm gnome-console gnome-disk-utility gnome-system-monitor gnome-text-editor loupe nautilus totem mesa lib32-mesa vulkan-radeon lib32-vulkan-radeon python-gobject power-profiles-daemon gpu-screen-recorder-gtk unityhub discord steam spotify-launcher lact nvtop transmission-gtk scx-scheds reflector pacman-contrib openrgb nano git mangohud lib32-mangohud kdenlive firefox wine-staging python-pyquery alsa-utils
 ```
 <br><br>
 ![1](https://github.com/user-attachments/assets/1f976d55-6ff2-4b98-9667-74c28f448678)
