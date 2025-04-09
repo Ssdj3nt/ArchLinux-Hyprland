@@ -1,0 +1,63 @@
+{
+  "layer": "top",
+    "modules-left": ["custom/space-1", "hyprland/workspaces"],
+    "modules-center": ["clock"],
+    "modules-right": ["tray", "custom/space-3", "pulseaudio", "custom/space-3", "custom/gdm", "custom/space-2", "custom/reboot", "custom/space-2", "custom/shutdown", "custom/space-1"],
+    "hyprland/workspaces": {
+      "format": "{name}",
+      "format": "{icon}",
+      "tooltip": false,
+      "all-outputs": true,
+      "format-icons": {
+        "active": "",
+        "default": ""
+      }
+    },
+    "clock": {
+    "format": "{:L%A %d-%m   %H:%M}",
+    "tooltip": false
+    },
+    "tray": {
+	"icon-size": 18,
+	"spacing": 20
+	},
+    "pulseaudio": {
+      "format": "{volume}%<span>{icon}</span>",
+      "format-muted": "",
+      "tooltip": false,
+      "format-icons": {
+        "alsa_output.usb-046d_G435_Wireless_Gaming_Headset_V001008005.1-01.analog-stereo": "  ",
+        "alsa_output.pci-0000_2f_00.4.analog-stereo": "  ",
+      },
+      "on-click": "pavucontrol",
+      "on-scroll-down": "",
+      "on-scroll-up": "",
+    },
+    "custom/shutdown": {
+    "format": "",
+    "tooltip": false,
+    "on-click": "/home/ssdj3nt/.config/sh_file/shutdown.sh"
+    },
+    "custom/reboot": {
+    "format": "",
+    "tooltip": false,
+    "on-click": "/home/ssdj3nt/.config/sh_file/reboot.sh"
+    },
+    "custom/gdm": {
+    "format": "",
+    "tooltip": false,
+    "on-click": "/home/ssdj3nt/.config/sh_file/gdm.sh"
+    },
+    "custom/space-1": {
+    "format": " ",
+    "tooltip": false
+    },
+    "custom/space-2": {
+    "format": " ",
+    "tooltip": false
+    },
+    "custom/space-3": {
+    "format": " ",
+    "tooltip": false
+    }
+}

@@ -1,0 +1,12 @@
+style=/home/ssdj3nt/.config/wofi/style.css
+xoffset=1420
+yoffset=650
+show=drun
+width=600
+height=450
+always_parse_args=true
+show_all=true
+print_command=true
+layer=overlay
+insensitive=true
+prompt=
